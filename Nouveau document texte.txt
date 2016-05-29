@@ -1,0 +1,18 @@
+git clone https://github.com/Matskis/AppliMapGN.git
+
+premier lancement
+
+git config user.email "email"
+git config user.name "name"
+
+commande à taper pour envoyé 
+
+git add "fichier a séléctionne"
+
+si plusieurs faire pour chacun, sinon faire sur un dossier qui contient les fichiers, sa enverra toutes les modifications
+
+ensuite 
+
+git commit -m "message du commit"
+
+git push
